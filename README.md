@@ -1,2 +1,2 @@
 # msDjangoGym
-Microservicio hecho en Django para la pagina del gimnasio
+Microservicio hecho en Django para la página del gimnasio
